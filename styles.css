@@ -1,0 +1,27 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    font-size: 30px;
+}
+h2 {
+    font-size: 24px;
+}
+p {
+    font-size: 18px;
+}
+a {
+    font-size: 18px;
+    text-align: left;
+}
+li {
+    text-align: left;
+}
+
+img {
+    height: auto;
+    width: 600px;
+}
+
